@@ -11,9 +11,12 @@ Neste repositório colocarei meu progresso no curso de backend da Cubos Academy.
 - Objetos
 - Funções
 
+`O exercícios individuais de cada aula estão em repositórios privados.`
+
 ##### EXTRAS:
 - Aulas de soft skills
 - Aulas de git
 - Aulas de LinkedIn
 - Crie seu primeiro jogo (Jogo básico com CSS e javascript)
 
+###### tags: `lógica` `módulo 1` `exercício de classe` `nodeJS` `funcao` `objetos` `arrays` `loops` `condicionais` `variaveis` `git` `setup` 
