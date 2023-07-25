@@ -1,4 +1,4 @@
-# Repositório - Estudo Cubos Academy - Backend
+# Estudo Cubos Academy - Backend
 
 1º Repositório criado após início do curso de BackEnd na Cubos Academy.
 Neste repositório colocarei meu progresso no curso de backend da Cubos Academy.
