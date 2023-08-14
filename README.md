@@ -1,4 +1,4 @@
-# Estudo Cubos Academy - Backend
+# Estudo Cubos Academy - Backend - Módulo 01
 
 1º Repositório criado após início do curso de BackEnd na Cubos Academy.
 Neste repositório colocarei meu progresso no curso de backend da Cubos Academy.
@@ -15,7 +15,7 @@ Neste repositório colocarei meu progresso no curso de backend da Cubos Academy.
 - Métodos de Strings
 - Métodos de Arrays (callbacks, ordenação e redução)
 
-`O exercícios individuais de cada aula estão em repositórios privados.`
+`O exercícios de cada aula estão em repositórios privados.`
 
 ##### EXTRAS:
 
@@ -24,5 +24,7 @@ Neste repositório colocarei meu progresso no curso de backend da Cubos Academy.
 - Aulas de LinkedIn
 - Crie seu primeiro jogo (Jogo básico com CSS e javascript)
 - Desafio final de módulo - HackerRank e github
+
+##### Backend - Módulo 02: <https://github.com/arthurgsa/m02-backend-api>
 
 ###### tags: `lógica` `módulo 1` `exercício de classe` `nodeJS` `funcao` `objetos` `arrays` `loops` `condicionais` `variaveis` `git` `setup` `métodos`
