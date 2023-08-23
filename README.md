@@ -21,7 +21,7 @@ Cada pasta de aula contém exercícios realizados durante o estudo.
 
 _Os exercícios com aplicações estão em repositórios privados._
 
-### :diamonds: Extras
+### :diamonds: Extras (não incluídos ao repositório e presente no módulo)
 
 - Aulas de soft skills
 - Aulas de git
