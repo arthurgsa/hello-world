@@ -3,7 +3,9 @@
 1º Repositório criado após início do curso de BackEnd na Cubos Academy.
 Neste repositório colocarei meu progresso no curso de backend da Cubos Academy.
 
-## Módulo 1 💻👩‍💻
+## Módulo 1 👩‍💻
+
+### :black_joker: Conteúdo principal
 
 - Setup de ferramentas
 - Git e Github
@@ -16,9 +18,10 @@ Neste repositório colocarei meu progresso no curso de backend da Cubos Academy.
 - Métodos de Arrays (callbacks, ordenação e redução)
 
 Cada pasta de aula contém exercícios realizados durante o estudo.
-##### `O exercícios de entrega estão em repositórios privados.`
 
-##### EXTRAS:
+_Os exercícios com aplicações estão em repositórios privados._
+
+### :diamonds: Extras
 
 - Aulas de soft skills
 - Aulas de git
@@ -27,7 +30,13 @@ Cada pasta de aula contém exercícios realizados durante o estudo.
 - Desafio final de módulo técnico - 14 desafios de lógica (incluso tratamento de entradas) no HackerRank
 - Desafio final de módulo carreira - Análise de perfil profissional e organização de LinkedIn
 
-##### Links úteis
+### :spades: Como testar os códigos
+
+Este repositório é composto por arquivos com alguns exemplos de como usar cada um dos conceitos de lógica de programação.
+Execute qualquer arquivo individualmente com Node.js e a resposta estará no console.
+
+##### :link: Links úteis
+
 ###### Backend Módulo 2: [API](https://github.com/arthurgsa/m02-backend-api)
 
 ###### tags: `lógica` `módulo 1` `exercício de classe` `nodeJS` `funcao` `objetos` `arrays` `loops` `condicionais` `variaveis` `git` `setup` `métodos`
