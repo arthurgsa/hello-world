@@ -37,6 +37,6 @@ Execute qualquer arquivo individualmente com Node.js e a resposta estará no con
 
 ##### :link: Links úteis
 
-###### Backend Módulo 2: [API](https://github.com/arthurgsa/m02-backend-api)
+###### Backend Módulo 2: [API](https://github.com/arthurgsa/backend-m02-api)
 
 ###### tags: `lógica` `módulo 1` `exercício de classe` `nodeJS` `funcao` `objetos` `arrays` `loops` `condicionais` `variaveis` `git` `setup` `métodos`
