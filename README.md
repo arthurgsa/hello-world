@@ -39,5 +39,6 @@ Execute qualquer arquivo individualmente com Node.js e a resposta estará no con
 
 ###### Backend Módulo 2: [API](https://github.com/arthurgsa/backend-m02-api)
 ###### Backend Módulo 3: [PostgreSQL](https://github.com/arthurgsa/backend-m03-sql-postgresql/)
+###### Backend Módulo 4: [Aprofundamentos](https://github.com/arthurgsa/backend-m04-aprofundamentos/)
 
 ###### tags: `lógica` `módulo 1` `exercício de classe` `nodeJS` `funcao` `objetos` `arrays` `loops` `condicionais` `variaveis` `git` `setup` `métodos`
